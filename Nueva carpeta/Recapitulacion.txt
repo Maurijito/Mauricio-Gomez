@@ -1,0 +1,6 @@
+﻿Clase de 30/08/2018
+Mauricio Gómez
+
+En la clase se mostraron diferentes metodologías para crear paginas web, con ejemplos de paginas con plantillas para html que podemos usar para nuestra pagina web 
+de proyecto final también se dieron a conocer conceptos como diseño gráfico y lo que involucra, el concepto SEO, que es mejorar el resultado de posicionamiento de
+búsqueda de nuestra pagina, acerca de servidores virtuales privados (VPS) y finalmente la instalcion de linux.
