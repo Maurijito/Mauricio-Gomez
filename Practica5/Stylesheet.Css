@@ -1,8 +1,13 @@
 p {
-	font-family: cursive;
-	font-size: 30px;
 	color: red;
 }
+#span1{
+	color: green;
+	font-size: 15px;
+}
+
 span {
 	color: blue;
+	font-family: cursive;
+	font-size: 30px;
 }
