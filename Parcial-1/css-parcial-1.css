@@ -9,4 +9,21 @@ span {
     
 }
 
-
+#subtitulos {
+	color: brown;
+    text-align: center;
+    font-family: arial;
+    font-size: 20px;
+    -webkit-text-stroke: 1px gray
+}
+td {
+	color: brown;
+    font-family: arial;
+    font-size: 20px;
+}
+p {
+	text-align: right;
+	color: black;
+    font-family: arial;
+    font-size: 20px;
+}
